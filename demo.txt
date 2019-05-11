@@ -1,0 +1,3 @@
+1 测试环境:
+. 2cpu 5G内存 centos.
+. 利用docker在单机上部署kafka伪集群. 3个broker,1个zookeeper,一个ksqlserver,一个ksql-cli.
